@@ -5,7 +5,7 @@
 </p>
 
 <h2>About Me 🚀</h2>
-👨‍💻 Backend Developer passionate about technology, automation, and clean code.  
+👨‍💻 Fullstack Developer passionate about technology, automation, and clean code.  
 <br>
 🧠 Lifelong self-learner: always exploring new things, especially around NestJS, React, and AWS.  
 <br>
